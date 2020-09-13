@@ -1,0 +1,10 @@
+{
+    "game": {
+        "title": "My new game",
+        "version": "0.0.1"
+    },
+    "api": {
+        "fileRoot": "./dist/"
+    },
+    "mode": "development"
+}

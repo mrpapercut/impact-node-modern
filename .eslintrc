@@ -1,0 +1,34 @@
+{
+    "extends": "standard",
+    "rules": {
+        "camelcase": "off",
+        "indent": [
+            "off",
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "no-case-declarations": "off",
+        "no-multi-spaces": "off",
+        "no-prototype-builtins": "off",
+        "no-sequences": "off",
+        "no-useless-constructor": "off",
+        "object-curly-spacing": "off",
+        "one-var": "off",
+        "prefer-const": "warn",
+        "prefer-promise-reject-errors": "off",
+        "promise/param-names": "off",
+        "semi": [
+            "error",
+            "always"
+        ],
+        "space-before-function-paren": "off",
+        "spaced-comment": "off"
+    },
+    "env": {
+        "browser": true,
+        "node": true
+    }
+}
