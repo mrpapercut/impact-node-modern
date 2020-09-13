@@ -1,0 +1,7 @@
+# Folders
+node_modules
+dist/lib/impact
+dist/lib/weltmeister
+
+# Files
+package-lock.json
